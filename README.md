@@ -21,7 +21,7 @@ My name is Kristina, I'm 23 years old. I have been programming for about 3 years
 
 ## 🌱 Hard skills
 * programming languages: C+, C#, Java, JavaScript, TypeScript, Python
-* frameworks: Django, FastApi, ExpressJS, NextJS
+* frameworks: Django, FastApi, ExpressJS, NestJS
 * data bases: PostgreSQL
 * other: HTML, CSS, SQL, python-telegram-bot, Telegraf
 
