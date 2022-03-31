@@ -22,7 +22,7 @@ My name is Kristina, I'm 23 years old. I have been programming for about 3 years
 ## 🌱 Hard skills
 * programming languages: C+, C#, Java, JavaScript, TypeScript, Python
 * frameworks: Django, FastApi, ExpressJS, NestJS
-* data bases: PostgreSQL
+* databases: PostgreSQL
 * other: HTML, CSS, SQL, python-telegram-bot, Telegraf
 
 For the last year I have been doing backend development using Django and NestJS frameworks, as well as developing chatbots for Telegram.
